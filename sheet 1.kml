@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>sheet 1</name>
+	<color>54ffffff</color>
+	<Icon>
+		<href>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1_JlLKbGj3JhTErGcG5obTJDxS7jPqnE65_dL96We54Bmmr6bz-A7-YW6RAJMb8vWdNRhkQ51APP-3UwIxFMy8rXIXjVmojb1Pzjae7bI3KG2mvbY15L6T8racRxJtv1f8lTyYi68Uv9P6cV4ddQrbOezNeFlIZcz_nvrEKOAUYLCBqxRLYTzG5xarb72/s16000/%E0%A6%B9%E0%A6%BE%E0%A6%93%E0%A6%A1%E0%A6%BC%E0%A6%BE_%E0%A6%AA%E0%A6%BE%E0%A6%81%E0%A6%9A%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AA%E0%A7%81%E0%A6%B0_mouzamap2-1.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>22.53294776333651</north>
+		<south>22.50190898456807</south>
+		<east>88.18107727779031</east>
+		<west>88.15765095523886</west>
+		<rotation>-0.3929401934146881</rotation>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
